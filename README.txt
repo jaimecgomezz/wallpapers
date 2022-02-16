@@ -17,3 +17,4 @@ resources
 [4] https://unsplash.com/collections/10775052/ffffff/a4ac63bf4ba28981b4392d2a846c499d
 [5] https://www.reddit.com/r/wallpapers/
 [6] https://www.reddit.com/r/unixporn
+[7] https://github.com/FrenzyExists/wallpapers
