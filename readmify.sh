@@ -4,11 +4,9 @@
 # @jaimecgomezz
 #
 # updates theme's README with
-# wallpaper previews
+# wallpapers previews
 #
 ##############################
-
-THEMES="$( ls -l | grep ^d | awk '{print $NF}')"
 
 for theme in */; do
   echo -e "# Preview" >"${theme}/README.md"
