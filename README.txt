@@ -1,6 +1,23 @@
 wallpapers
 --------------------------------------------------------------------------------
-personal collection of desktop wallpapers, enjoy
+personal collection of desktop wallpapers, here's a preview
+
+
+nord
+----------------------------------------
+![nord](nord/dark-face.png "nord")
+
+dark
+----------------------------------------
+![dark](dark/ocean-waves.jpg "dark")
+
+general
+----------------------------------------
+![general](general/greeny-soil-road.jpg "general")
+
+gruvbox
+----------------------------------------
+![gruvbox](gruvbox/brown-sand-worm.jpg "gruvbox")
 
 
 notice
