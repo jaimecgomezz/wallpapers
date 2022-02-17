@@ -1,7 +1,6 @@
 wallpapers
 --------------------------------------------------------------------------------
-personal collection of desktop wallpapers, here's a preview
-
+Personal collection of desktop wallpapers
 
 nord
 ----------------------------------------
@@ -15,15 +14,11 @@ gruvbox
 ----------------------------------------
 ![gruvbox](gruvbox/brown-sand-worm.jpg "gruvbox")
 
-general
-----------------------------------------
-![general](general/greeny-soil-road.jpg "general")
-
 
 notice
 --------------------------------------------------------------------------------
-i know some of them are vertical, i just liked them that much
-i'll create an acknowledgements file in order to properly credit authors
+I know some of them are vertical, i just liked them that much
+I'll create an acknowledgements file in order to properly credit authors
 
 
 resources
