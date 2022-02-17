@@ -1,4 +1,4 @@
-wallpapers
+walls
 --------------------------------------------------------------------------------
 Personal collection of desktop wallpapers
 
