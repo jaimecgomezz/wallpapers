@@ -4,17 +4,45 @@ Personal collection of desktop wallpapers. This repo is intended to be used in
 conjunction with the [wallpainter.sh](https://github.com/jaimecgomezz/sh/blob/main/utils/wallpainter.sh)
 script, to dynamically change your wallpaper.
 
-nord
-----------------------------------------
-![nord](nord/dark-face.png "nord")
-
 dark
 ----------------------------------------
-![dark](dark/ocean-waves.jpg "dark")
+![dark](dark/b-831.png "dark")
 
 gruvbox
 ----------------------------------------
 ![gruvbox](gruvbox/brown-sand-worm.jpg "gruvbox")
+
+blood
+----------------------------------------
+![blood](blood/b-674.png "blood")
+
+colors
+----------------------------------------
+![colors](colors/b-297.png "colors")
+
+forest
+----------------------------------------
+![forest](forest/b-622.png "forest")
+
+light
+----------------------------------------
+![light](light/b-749.png "light")
+
+pantone
+----------------------------------------
+![pantone](pantone/b-553.png "pantone")
+
+synth
+----------------------------------------
+![synth](synth/b-728.png "synth")
+
+nord
+----------------------------------------
+![nord](nord/dark-face.png "nord")
+
+catppuccin
+----------------------------------------
+![catppuccin](catppuccin/travel.jpg "catppuccin")
 
 
 notice
