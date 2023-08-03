@@ -1,7 +1,7 @@
 walls
 --------------------------------------------------------------------------------
 Personal collection of desktop wallpapers. This repo is intended to be used in
-conjunction with the [wallpainter.sh](https://github.com/jaimecgomezz/sh/blob/main/utils/wallpainter.sh)
+conjunction with the [wal](https://github.com/jaimecgomezz/sh/blob/master/wal)
 script, to dynamically change your wallpaper.
 
 dark
