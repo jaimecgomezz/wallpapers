@@ -1,6 +1,6 @@
 walls
 --------------------------------------------------------------------------------
-Personal collection of desktop wallpapers. This repo is intended to be used in
+Personal collection of desktop wallpapers. This repo coould optionally be used in
 conjunction with the [wal](https://github.com/jaimecgomezz/sh/blob/master/wal)
 script, to dynamically change your wallpaper.
 
